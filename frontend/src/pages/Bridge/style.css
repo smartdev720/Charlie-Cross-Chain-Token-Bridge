@@ -1,0 +1,7 @@
+.filter-wrapper {
+  clip-path: polygon(0 6%, 3% 0, 100% 0, 100% 94%, 97% 100%, 0% 100%);
+}
+
+.transfer-wrapper {
+  clip-path: polygon(0 28%, 3% 0, 100% 0, 100% 72%, 97% 100%, 0% 100%);
+}
